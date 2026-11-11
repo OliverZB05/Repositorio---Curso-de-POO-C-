@@ -1,0 +1,10 @@
+D:\Proyectos de VS\Proyectos_CURSO-PROM-POO\CajeroAutomatico\CajeroAutomatico\obj\Debug\CajeroAutomatico.csproj.AssemblyReference.cache
+D:\Proyectos de VS\Proyectos_CURSO-PROM-POO\CajeroAutomatico\CajeroAutomatico\obj\Debug\CajeroAutomatico.Form1.resources
+D:\Proyectos de VS\Proyectos_CURSO-PROM-POO\CajeroAutomatico\CajeroAutomatico\obj\Debug\CajeroAutomatico.Properties.Resources.resources
+D:\Proyectos de VS\Proyectos_CURSO-PROM-POO\CajeroAutomatico\CajeroAutomatico\obj\Debug\CajeroAutomatico.csproj.GenerateResource.cache
+D:\Proyectos de VS\Proyectos_CURSO-PROM-POO\CajeroAutomatico\CajeroAutomatico\obj\Debug\CajeroAutomatico.csproj.CoreCompileInputs.cache
+D:\Proyectos de VS\Proyectos_CURSO-PROM-POO\CajeroAutomatico\CajeroAutomatico\bin\Debug\CajeroAutomatico.exe.config
+D:\Proyectos de VS\Proyectos_CURSO-PROM-POO\CajeroAutomatico\CajeroAutomatico\bin\Debug\CajeroAutomatico.exe
+D:\Proyectos de VS\Proyectos_CURSO-PROM-POO\CajeroAutomatico\CajeroAutomatico\bin\Debug\CajeroAutomatico.pdb
+D:\Proyectos de VS\Proyectos_CURSO-PROM-POO\CajeroAutomatico\CajeroAutomatico\obj\Debug\CajeroAutomatico.exe
+D:\Proyectos de VS\Proyectos_CURSO-PROM-POO\CajeroAutomatico\CajeroAutomatico\obj\Debug\CajeroAutomatico.pdb

@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Proyectos de VS\\Proyectos_CURSO-PROM-POO\\CajeroAutomatico\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5BCEC7E3-FB50-440C-B18F-8A9DE8E9553F}|CajeroAutomatico\\CajeroAutomatico.csproj|d:\\proyectos de vs\\proyectos_curso-prom-poo\\cajeroautomatico\\cajeroautomatico\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BCEC7E3-FB50-440C-B18F-8A9DE8E9553F}|CajeroAutomatico\\CajeroAutomatico.csproj|solutionrelative:cajeroautomatico\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BCEC7E3-FB50-440C-B18F-8A9DE8E9553F}|CajeroAutomatico\\CajeroAutomatico.csproj|D:\\Proyectos de VS\\Proyectos_CURSO-PROM-POO\\CajeroAutomatico\\cajeroautomatico\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5BCEC7E3-FB50-440C-B18F-8A9DE8E9553F}|CajeroAutomatico\\CajeroAutomatico.csproj|solutionrelative:cajeroautomatico\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Proyectos de VS\\Proyectos_CURSO-PROM-POO\\CajeroAutomatico\\CajeroAutomatico\\Form1.cs",
+              "RelativeDocumentMoniker": "CajeroAutomatico\\Form1.cs",
+              "ToolTip": "D:\\Proyectos de VS\\Proyectos_CURSO-PROM-POO\\CajeroAutomatico\\CajeroAutomatico\\Form1.cs",
+              "RelativeToolTip": "CajeroAutomatico\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T18:34:43.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Proyectos de VS\\Proyectos_CURSO-PROM-POO\\CajeroAutomatico\\CajeroAutomatico\\Form1.cs",
+              "RelativeDocumentMoniker": "CajeroAutomatico\\Form1.cs",
+              "ToolTip": "D:\\Proyectos de VS\\Proyectos_CURSO-PROM-POO\\CajeroAutomatico\\CajeroAutomatico\\Form1.cs [Design]",
+              "RelativeToolTip": "CajeroAutomatico\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T18:15:17.29Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
